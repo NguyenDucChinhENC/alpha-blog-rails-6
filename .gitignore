@@ -32,6 +32,13 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
+# Ignore all the vim temporary file
+*.swp
+*.swo
+
+# Ignore all the .DS_Store was created by mac
+*.DS_Store
+
 /public/packs
 /public/packs-test
 /node_modules
