@@ -39,6 +39,7 @@
 # Ignore all the .DS_Store was created by mac
 *.DS_Store
 
+/db/schema.rb
 /public/packs
 /public/packs-test
 /node_modules
